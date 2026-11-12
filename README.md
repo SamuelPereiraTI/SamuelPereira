@@ -12,5 +12,4 @@ Tenho 19 anos, sou do Rio de Janeiro e estudo Ciência da Computação na Afya.
 Buscar uma oportunidade de estágio na área de tecnologia, onde possa contribuir com meus conhecimentos, aprender com profissionais experientes e continuar minha evolução técnica.
 
 ## Contato
-- LinkedIn: (inserir link)
-- E-mail: (inserir e-mail)
+- LinkedIn: https://www.linkedin.com/in/samuelpereira07/
