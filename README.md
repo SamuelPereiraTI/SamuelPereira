@@ -1,1 +1,16 @@
 # SamuelPereira
+
+Tenho 19 anos, sou do Rio de Janeiro e estudo Ciência da Computação na Afya.
+
+## Sobre mim
+- Tenho interesse em banco de dados, com foco em modelagem, consultas e organização de informações.
+- Exploro Inteligência Artificial, utilizando ferramentas como o Claude em meus estudos e projetos.
+- Possuo boa comunicação e facilidade para trabalhar em equipe.
+- Tenho forte disposição para aprender e desenvolver novos projetos.
+
+## Objetivo
+Buscar uma oportunidade de estágio na área de tecnologia, onde possa contribuir com meus conhecimentos, aprender com profissionais experientes e continuar minha evolução técnica.
+
+## Contato
+- LinkedIn: (inserir link)
+- E-mail: (inserir e-mail)
